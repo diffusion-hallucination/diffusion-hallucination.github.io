@@ -1,0 +1,22 @@
+# jekyll theme ignores
+.bundle
+.DS_Store
+_site
+
+*_temp.txt
+*~
+*.pyc
+.idea/*
+.ipynb_checkpoints/*
+tmp.txt
+wisdom.fftw
+*.mat
+*Copy*.ipynb
+*.swp
+*.tmp
+*.backup*
+
+# Directories (and subdirectories)
+**/__pycache__/
+**/.ipynb_checkpoints/
+
